@@ -16,7 +16,7 @@ The idea is to build a component that represents traffic lights. It should chang
 
 ---
 
-<img src="/public/outputs/traffic-lights.gif" width="256" height="256"/>
+<img src="traffic-lights.gif" width="256" height="256"/>
 
 ---
 
