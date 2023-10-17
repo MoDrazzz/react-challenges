@@ -1,9 +1,9 @@
-import { View } from 'components'
+import { TrafficLights, View } from 'components'
 
 const App = () => {
   return (
     <View>
-      <h1>App</h1>
+      <TrafficLights />
     </View>
   )
 }
