@@ -1,5 +1,11 @@
+import View from 'components/View'
+
 const App = () => {
-  return <h1>App</h1>
+  return (
+    <View>
+      <h1>App</h1>
+    </View>
+  )
 }
 
 export default App
