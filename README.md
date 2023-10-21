@@ -21,3 +21,19 @@ The idea is to build a component that represents traffic lights. It should chang
 ---
 
 Source: [WebDevCody](https://www.youtube.com/watch?v=plFo3jJRTdE) <br />
+
+## [Color Guessing Game](https://github.com/MoDrazzz/react-challenges/tree/color-guessing-game)
+
+```
+git switch color-guessing-game
+```
+
+The objective is to build a game of guessing correct hex code of color visible on the screen. You've got 3 answers, one of which is correct.
+
+---
+
+<img src="color-guessing-game.gif" width="512" height="400"/>
+
+---
+
+Source: [WebDevCody](https://youtu.be/QNYljS0_TOE?si=i5G8ZJ-beoBu6EZA)
